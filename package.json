@@ -1,0 +1,35 @@
+{
+  "name": "utf8-uint8array",
+  "version": "1.0.0",
+  "description": "Conversion between utf8 string and uint8array",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeysova/utf8-uint8array.git"
+  },
+  "keywords": [
+    "utf8",
+    "array",
+    "bytes",
+    "charset",
+    "encode",
+    "decode"
+  ],
+  "author": "Sergey Sova <mail@sergeysova.com> (https://sergeysova.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeysova/utf8-uint8array/issues"
+  },
+  "homepage": "https://github.com/sergeysova/utf8-uint8array#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
